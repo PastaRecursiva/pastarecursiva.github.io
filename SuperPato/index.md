@@ -5,8 +5,6 @@ Ahora el pasto y la tierra estan como tilemaps en vez de nodos individuales, lo 
 
 Las fisicas estan funcionales, y pueden ser facilmente modificadas.
 
-[Imagen](https://cdn.discordapp.com/attachments/801460807531364397/801462489543606312/unknown.png)
-
 [Video](https://cdn.discordapp.com/attachments/801460807531364397/801463529861152768/2021-01-20_08-47-22.mp4)
 
 [Video](https://cdn.discordapp.com/attachments/801460807531364397/801464647630716968/2021-01-20_08-51-57.mp4)
