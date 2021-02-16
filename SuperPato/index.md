@@ -1,7 +1,8 @@
 Unete al server de [Discord](https://discord.gg/TU4K4Av7Mw) para obtener actualizaciones mas rapido!
 # Version 0.2
 Cambios: 
-Ahora el pasto y la tierra estan como tilemaps en vez de nodos individuales, lo que facilita mucho la creacion de niveles.\n
+Ahora el pasto y la tierra estan como tilemaps en vez de nodos individuales, lo que facilita mucho la creacion de niveles.
+
 Las fisicas estan funcionales, y pueden ser facilmente modificadas.
 
 [Imagen](https://cdn.discordapp.com/attachments/801460807531364397/801462489543606312/unknown.png)
